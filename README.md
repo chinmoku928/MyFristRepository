@@ -3,9 +3,9 @@
 <hr>
 
 <h1> My Personal Portfolio </h1>
-<p> Hello! Thanks for diving in this far! My name is Josue
+<p> Hello! Thanks for diving in this far! My name is Josue Obando
 <br> This where it all began, the begining of my Coding Journey! </p>
-<p> I im a student at Code Ninja's studying to be a software engineer. </p>
+<p> Im a student at Code Ninja's studying to become a software engineer. </p>
 
 <h3> What's Stored in here ? </h3>
 <p> As of right now I am atempting to create a personal site to host all of my past projects and experience. Only the projects that really stand out !! </p>
